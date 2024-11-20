@@ -45,7 +45,7 @@ This repository is divided into two main sections:
 
 1. Clone this repository:  
    ```bash  
-   git clone https://github.com/deepikamahanthi97/frontend-projects-and-assignments.git  
+   https://github.com/deepikamahanthi97/frontend-projects-and-assignments.git  
    ```  
 2. Navigate to the respective project or assignment folder.  
 3. Refer to individual README files for setup and usage instructions.  
